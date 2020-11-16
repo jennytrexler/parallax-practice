@@ -1,0 +1,43 @@
+.jumbotron{
+    height: 1038px;
+    width: auto;
+    background: url("../images/howl050.jpg");
+}
+
+.parallax{
+    /* Set a specific height */
+    height: 1038px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section_opacity{
+    opacity: 0.5;
+}
+
+#firstpicture{
+    background-image: url("../images/howl050.jpg");
+}
+#secondpicture{
+    background-image: url("../images/howl035.jpg");
+}
+#thirdpicture{
+    background-image: url("../images/howl033.jpg");
+}
+#fourthpicture{
+    background-image: url("../images/howl032.jpg");
+}
+#fifthpicture{
+    background-image: url("../images/howl004.jpg");
+}
+
+.text_color{
+    color: #077EB6;
+}
+.copyright_font_size{
+    font-size: 10px;
+}
